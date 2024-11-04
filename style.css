@@ -328,7 +328,7 @@ i {
 
 .Feature1 {
     height: 350px;
-    background-image: url(images/feature1.png);
+    background-image: url(feature1.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 7;
@@ -422,7 +422,7 @@ h2 a {
 
 .Feature2 {
     height: 350px;
-    background-image: url(images/feature2.png);
+    background-image: url(feature2.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 6;
@@ -445,7 +445,7 @@ h2 a {
 
 .Feature3 {
     height: 350px;
-    background-image: url(images/feature3.jpg);
+    background-image: url(feature3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 8;
@@ -467,7 +467,7 @@ h2 a {
 
 .Feature4 {
     height: 350px;
-    background-image: url(images/feature4.png);
+    background-image: url(feature4.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 8;
@@ -489,7 +489,7 @@ h2 a {
 
 .Feature5 {
     height: 350px;
-    background-image: url(images/feature5.png);
+    background-image: url(feature5.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 8;
@@ -510,7 +510,7 @@ h2 a {
 
 .Feature6 {
     height: 300px;
-    background-image: url(images/feature6.png);
+    background-image: url(feature6.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 8;
@@ -680,7 +680,7 @@ footer {
 
 .Experience1 {
     height: 300px;
-    background-image: url(images/experience1.png);
+    background-image: url(experience1.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 4;
@@ -702,7 +702,7 @@ footer {
 
 .Experience2 {
     height: 300px;
-    background-image: url(images/experience2.png);
+    background-image: url(experience2.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 5;
@@ -716,7 +716,7 @@ footer {
 
 .Experience3 {
     height: 300px;
-    background-image: url(images/experience3.jpg);
+    background-image: url(experience3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 4;
@@ -729,7 +729,7 @@ footer {
 }
 .Experience4 {
     height: 300px;
-    background-image: url(images/experience4.png);
+    background-image: url(experience4.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 6;
@@ -743,7 +743,7 @@ footer {
 
 .Experience5 {
     height: 300px;
-    background-image: url(images/experience5.png);
+    background-image: url(experience5.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 5;
@@ -757,7 +757,7 @@ footer {
 
 .Experience6 {
     height: 300px;
-    background-image: url(images/experience6.png);
+    background-image: url(experience6.png);
     background-size: cover;
     background-repeat: no-repeat;
     flex: 5;
@@ -791,7 +791,7 @@ footer {
 }
 
 .carda {
-    background-image: url(images/certificate03.png);
+    background-image: url(certificate03.png);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -802,7 +802,7 @@ footer {
 }
 
 .cardb {
-    background-image: url(images/certificate08.png);
+    background-image: url(certificate08.png);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -813,7 +813,7 @@ footer {
 }
 
 .cardc {
-    background-image: url(images/certificate06.jpg);
+    background-image: url(certificate06.jpg);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -823,7 +823,7 @@ footer {
     border: 1px solid #584E62; 
 }
 .cardd {
-    background-image: url(images/certificate01.JPG);
+    background-image: url(certificate01.JPG);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -833,7 +833,7 @@ footer {
     border: 1px solid #584E62; 
 }
 .carde {
-    background-image: url(images/cerfiticate02.jpeg);
+    background-image: url(cerfiticate02.jpeg);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -843,7 +843,7 @@ footer {
     border: 1px solid #584E62; 
 }
 .cardf {
-    background-image: url(images/certificate07.jpeg);
+    background-image: url(certificate07.jpeg);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -854,7 +854,7 @@ footer {
 }
 
 .cardg {
-    background-image: url(images/certificate04.jpeg);
+    background-image: url(certificate04.jpeg);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -865,7 +865,7 @@ footer {
 }
 
 .cardh {
-    background-image: url(images/certificate05.png);
+    background-image: url(certificate05.png);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -876,7 +876,7 @@ footer {
 }
 
 .cardi {
-    background-image: url(images/certificate09.JPG);
+    background-image: url(certificate09.JPG);
     height: 250px;
     width: 32%;
     background-size: cover;
@@ -889,7 +889,7 @@ footer {
 
 /* 照片 照片 照片 照片 照片 */
 .card1 {
-    background-image: url(images/school01.jpg);
+    background-image: url(school01.jpg);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -899,7 +899,7 @@ footer {
 
 
 .card2 {
-    background-image: url(images/school2.jpeg);
+    background-image: url(school2.jpeg);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -908,7 +908,7 @@ footer {
 }
 
 .card3 {
-    background-image: url(images/school3.jpeg);
+    background-image: url(school3.jpeg);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -917,14 +917,14 @@ footer {
 }
 
 .card4 {
-    background-image: url(images/school04.jpeg);
+    background-image: url(school04.jpeg);
     height: 250px;
     width: 24%;
     background-size: cover;
     background-position: bottom;
 }
 .card5 {
-    background-image: url(images/daily04.png);
+    background-image: url(daily04.png);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -932,7 +932,7 @@ footer {
     background-position: bottom;
 }
 .card6 {
-    background-image: url(images/daily02.png);
+    background-image: url(daily02.png);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -940,7 +940,7 @@ footer {
     background-position: bottom;
 }
 .card7 {
-    background-image: url(images/daily03.png);
+    background-image: url(daily03.png);
     height: 250px;
     width: 24%;
     background-size: cover;
@@ -948,7 +948,7 @@ footer {
     background-position: bottom;
 }
 .card8 {
-    background-image: url(images/daily01.png);
+    background-image: url(daily01.png);
     height: 250px;
     width: 24%;
     background-size: cover;
